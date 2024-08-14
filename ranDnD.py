@@ -238,3 +238,8 @@ add_name.clicked.connect(change_name)
 window.setLayout(vert)
 
 app.exec()
+
+#alskjdlkasd
+#ijkljdalkjsd
+#hjklajsdj
+#alksjdlkasd
